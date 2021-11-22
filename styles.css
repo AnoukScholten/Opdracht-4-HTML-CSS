@@ -1,0 +1,19 @@
+header{
+    color:blueviolet;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.rand{
+    
+
+}
+
+body{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border: 15px solid darkgoldenrod;
+}
+
+
+h2, h3{
+    color:coral;
+}
